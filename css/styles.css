@@ -1,0 +1,459 @@
+.home-bg {
+	background-image: url(../images/bg-home.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center center;
+}
+*a {
+	text-decoration: none;
+}
+.Livello8 {
+}
+.st-20px {
+	font-size: 20px;
+}
+.clearfix::after {
+	content: '';
+	display: table;
+	clear: both;
+}
+.navig-link {
+	overflow: hidden;
+}
+.home-top a {
+	text-decoration: none;
+	color: white;
+}
+.home-text {
+	padding: 140px 0;
+}
+.home-h1-text {
+	font-size: 60px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(255, 255, 255);
+}
+
+.home-lorem-text {
+	font-size: 20px;
+	font-family: 'Work Sans', sans-serif;
+	color: rgba(255, 255, 255,0.6);
+	line-height: 1.2;
+}
+.fa_chevron_down {
+	background-color: rgb(255, 255, 255);
+	position: absolute;
+	left: 623px;
+	top: 721px;
+	width: 34px;
+	height: 22px;
+	z-index: 15;
+}
+.select-button {
+	width: 204px;
+	height: 52px;
+	background-color: rgb(170, 155, 119);
+	border: 0;
+	border-radius: 3px;
+}
+.selection-texts {
+	font-size: 18px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(51, 51, 51);
+	line-height: 1.2;
+	transform: translateY(-3px);
+	cursor: pointer;
+}
+.input-checkbox {
+	width: 20px;
+	height: 20px;
+	background-color: transparent;
+	border: 2px solid rgb(204, 204, 204);
+	border-radius: 3px;
+	cursor: pointer;
+}
+
+.Rettangolo_2_copia_2 {
+	border-color: rgb(204, 204, 204);
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 3px;
+	background-color: rgb(255, 255, 255);
+	position: absolute;
+	left: 364px;
+	top: 846px;
+	width: 29px;
+	height: 28px;
+	z-index: 31;
+}
+
+.men-line {
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	top: 50%;
+	transform: translate(0,-50%);
+	/*width: 10%;*/
+	font-size: 20px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+}
+.men-linestyle hr {
+	display: inline-block;
+	width: 100%;
+	background-color: rgb(204, 204, 204);
+	height: 2px;
+	border: 0;
+
+}
+.container {
+	position: relative;
+}
+.shop-card {
+	position: relative;
+}
+
+.card-sel {
+	background-color: rgb(245, 246, 247);
+	width: 320px;
+	height: 378px;
+}
+._1_5 {
+	width: 30px;
+}
+._1___5 {
+	width: 25px;
+	font-size: 16px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(170, 155, 119);
+	line-height: 1.2;
+}
+
+.select-size {
+	font-size: 16px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+}
+.select-3color {
+	width: 80px;
+}
+
+.T_shirt {
+	font-size: 18px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(170, 155, 119);
+	line-height: 1.2;
+}
+
+._5_00€ {
+	width: 50px;
+	font-size: 22px;
+	font-family: 'Work Sans', sans-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+}
+._30_00€ {
+	width: 60px;
+	font-size: 22px;
+	font-family: 'Work Sans', sans-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+}
+.women-line {
+	display: inline-block;
+	position: absolute;
+	right: 0;
+	top: 50%;
+	transform: translate(0, -50%);
+	text-align: right;
+	font-size: 20px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+}
+.women-linestyle hr {
+	display: inline-block;
+	width: 100%;
+	background-color: rgb(204, 204, 204);
+	height: 2px;
+	border: 0;
+}
+.select-size {
+	border: 0;
+	background: transparent;
+}
+.select-size:focus {
+	outline: none;
+}
+.shop-bg-style {
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.shop-sel-name {
+	font-size: 18px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(170, 155, 119);
+	line-height: 1.2;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.shop-sel-size {
+	font-size: 22px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.2;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+option {
+	border: 0;
+	outline: none;
+
+}
+.sariq-f {
+	padding: 5em 0;
+}
+.Forma_4 {
+	border: solid 2px rgb(145, 131, 99);
+	width: 711px;
+	height: 251px;
+	position: relative;
+}
+.about_us {
+	font-size: 20px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(131, 118, 89);
+	line-height: 1.2;
+	position: absolute;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.Lorem_ipsum-f {
+	font-size: 16px;
+	font-family: 'Work Sans', sans-serif;
+	color: rgb(66, 66, 66);
+	line-height: 1.5;
+	text-align: center;
+	width: 476px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%,-50%);
+}
+
+.__E_commerce {
+	font-size: 16px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(255, 255, 255);
+	line-height: 1.2;
+}
+.Rettangolo_13 {
+	background-color: rgb(66, 66, 66);
+	height: 352px;
+}
+.Trekking {
+	font-size: 20px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(255, 255, 255);
+	line-height: 1.2;
+}
+.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+	font-size: 10px;
+	font-family: 'Work Sans', sans-serif;
+	color: rgb(255, 255, 255);
+	line-height: 2;
+	width: 314px;
+}
+.section-1 {
+	position: absolute;
+	top: 50%;
+	transform: translate(0,-50%);
+}
+.section-2 {
+	position: absolute;
+	top: 50%;
+	right: 1%;
+	transform: translate(0,-50%);
+}
+
+.credits___Privacy____about___contact {
+	font-size: 14px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(255, 255, 255);
+	text-transform: uppercase;
+	line-height: 2;
+	text-align: left;
+}
+.Design_by_gianluca_cosetta {
+	font-size: 18px;
+	font-family: "Quicksand", san-serif;
+	color: rgb(255, 255, 255);
+	line-height: 1.556;
+}
+
+
+@media only screen and (max-width: 1207px) {
+	.home-h1-text {
+		font-size: 50px;	
+	}
+}
+@media only screen and (max-width: 1200px) {
+	.card-sel {
+		border: 1px solid white;
+	}
+}
+@media only screen and (max-width: 1110px) {
+	.home-lorem-text {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width: 1077px) {
+	.home-h1-text {
+		font-size: 40px;	
+	}
+	.home-lorem-text {
+		font-size: 16px;
+	}
+}
+@media only screen and (max-width: 992px) {
+	.card-sel {
+		width: 250px;
+		height: 295px;
+	}
+	.shop-sel-name {
+		font-size: 14px;
+	}
+	.shop-sel-size {
+		font-size: 18px;
+	}
+}
+@media only screen and (max-width: 767px) {
+	.card-sel {
+		width: 320px;
+		height: 378px;
+	}
+	.shop-sel-name {
+		font-size: 18px;
+	}
+	.shop-sel-size {
+		font-size: 22px;
+	}
+	.home-text {
+		padding: 100px 0;
+	}
+}
+@media only screen and (max-width: 600px) {
+	.section-1 {
+		top: 4%;
+		left: 4%;
+		transform: translate(0,0);
+	}
+	.section-2 {
+		bottom: 4%;
+		left: 4%;
+		transform: translate(0,0);
+		text-align: left;
+	}
+	.Rettangolo_13 {
+		height: 300px;
+	}
+	.credits___Privacy____about___contact {
+		text-align: left;
+	}
+	.Design_by_gianluca_cosetta {
+		text-align: left;
+	}
+	.Forma_4 {
+		border: solid 2px rgb(145, 131, 99);
+		width: 90%;
+		height: 251px;
+		position: relative;
+	}
+	.women-line {
+		font-size: 20px;
+	}
+}
+@media only screen and (max-width: 575px) {
+	.row {
+		margin: 0;
+	}
+	.men-line {
+		margin: 0;
+		font-size: 16px;
+	}
+	.home-bg {
+		padding: 0;
+	}
+	.home-h1-text {
+		font-size: 30px;	
+	}
+	.home-lorem-text {
+		font-size: 14px;
+		width: 60%;
+	}
+	.home-text {
+		padding: 60px 0;
+	}
+	.home-lorem-text>br {
+		display: none;
+	}
+	.Lorem_ipsum-f {
+		width: 90%;
+	}
+	.Lorem_ipsum-f>br {
+		display: none;
+	}
+	.women-line {
+		font-size: 16px;
+		margin: 0;
+	}
+}
+@media only screen and (max-width: 402px) {
+	.input-checkbox {
+		width: 16px;
+		height: 16px;
+	}
+	.selection-texts {
+		font-size: 14px;
+		transform: translateY(-3px);
+	}
+	.select-button {
+		width: 180px;
+		height: 46px;
+	}
+	.__E_commerce {
+		font-size: 14px;
+	}
+}
+@media only screen and (max-width: 349px) {
+	.st-20px {
+		font-size: 16px;
+	}
+	.brend-img {
+		width: 40px;
+	}
+	.savatcha-png {
+		width: 20px;
+	}
+	.card-sel {
+		width: 96%;
+	}
+	.Lorem_ipsum_dolor_sit_amet__consectetur_adipisc {
+		width: 96%;
+	}
+}
+@media only screen and (min-width: 348px) {
+	.checkbox-form br {
+		display: none;
+	}
+}
+@media only screen and (max-width: 320px) {
+	.__E_commerce {
+		font-size: 12px;
+	}
+}
